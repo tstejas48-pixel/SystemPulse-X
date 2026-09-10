@@ -343,3 +343,5 @@ For issues, questions, or suggestions:
 **Built with ❤️ using Next.js and TypeScript**
 
 © 2024 SystemPulse - Real-time System Monitoring Dashboard
+#   S y s t e m P u l s e - X  
+ 
